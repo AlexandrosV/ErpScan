@@ -237,3 +237,10 @@ div.search-form
 #lista_datos ul{
     list-style: none;
 }
+
+
+/*Added by Jtenorio for develop */
+
+table tr td{
+    border:black 1px solid;
+}
