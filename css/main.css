@@ -242,5 +242,13 @@ div.search-form
 /*Added by Jtenorio for develop */
 
 table tr td{
+    /*solo para test*/
     border:black 1px solid;
+}
+
+#detalleAsiento{
+    width: 100%;
+    height: 240px;
+    overflow: scroll;
+    border: black 1px solid;
 }
